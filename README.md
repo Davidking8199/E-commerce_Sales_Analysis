@@ -7,3 +7,10 @@ This Data Analysis Projection aim to provide insight into the sales performance 
 The dataset used for this analysis is the "Service Provider New Version.xlsx"file
 [Download here](https://github.com/user-attachments/files/18007787/Service.Provider.New.Version.class.2.xlsx)
 
+### Tools
+-Excel-Data cleaning
+- [Download
+- MySQL-Data Analysis
+- power-BI
+
+### 
