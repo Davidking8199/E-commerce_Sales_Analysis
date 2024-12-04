@@ -13,4 +13,30 @@ The dataset used for this analysis is the "Service Provider New Version.xlsx"fil
 - MySQL-Data Analysis
 - power-BI
 
-### 
+### Data cleaning
+In. the preparation of dataset for anaylsis, we perform the following task
+1. Removal of deplicate
+2. Handled missing values with XLLOOKUP
+3. Change values to the approaite format
+
+### Exploratory Data Analysisd
+The data was explored to answer key questions such as
+- What was tndhe monthly sales trend?
+- What was the top performing categories?
+- What were the sales period?
+
+- ### Data Analysis
+
+  ```MySql
+  SELECT payment -data,amount FROM service _provider_table
+  WHERE category = 'betting'
+  ```
+
+  ### Dashbord
+  [screenshot
+
+
+   ### Results/findings
+
+   ### Recomendations
+  
