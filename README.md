@@ -9,7 +9,7 @@ The dataset used for this analysis is the "Service Provider New Version.xlsx"fil
 
 ### Tools
 -Excel-Data cleaning
-- [Download
+- [Download](https://www.microsoft.com)
 - MySQL-Data Analysis
 - power-BI
 
@@ -33,7 +33,7 @@ The data was explored to answer key questions such as
   ```
 
   ### Dashbord
-  [screenshot
+  ![Screenshot (6)](https://github.com/user-attachments/assets/1f200a11-b2b7-4980-992f-66f2483214f1)
 
 
    ### Results/findings
