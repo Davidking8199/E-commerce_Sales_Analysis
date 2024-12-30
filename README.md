@@ -16,7 +16,7 @@ The dataset used for this analysis is the "Service Provider New Version.xlsx"fil
 ### Data cleaning
 In. the preparation of dataset for anaylsis, we perform the following task
 1. Removal of deplicate
-2. Handled missing values with XLLOOKUP
+2. Handled missing values with XLOOKUP
 3. Change values to the approaite format
 
 ### Exploratory Data Analysisd
